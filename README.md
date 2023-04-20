@@ -28,3 +28,9 @@ go build
 [https://github.com/LiveOverflow/everything-api](https://github.com/LiveOverflow/everything-api)
 
 [https://www.youtube.com/watch?v=M2uH6HnodlM](https://www.youtube.com/watch?v=M2uH6HnodlM)
+
+---
+
+Example Output - 
+
+![image](https://user-images.githubusercontent.com/8670239/233352428-59acfd79-e824-4df8-9442-f30b8db7e668.png)
