@@ -15,8 +15,8 @@ import (
 const basePrompt = `Create a response document with content that matches the following URL path: 
 '{{URL_PATH}}'
 
-The first line is the Content-Type of the response.
-The following lines is the returned data.
+The Content-Type of the response is provided to you.
+Your response document should be a valid document of the given Content-Type strictly adhering to the Content-Type specification.
 In case of a html response, add relative href links with to related topics. Also add basic CSS to make it look good.
 {{OPTIONAL_DATA}}
 
