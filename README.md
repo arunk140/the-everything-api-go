@@ -1,6 +1,6 @@
 ### The Everything API in Go -
 
-Generate the entire Web (HTML/JSON) using only URLs and LLMs - GPT-3.5-Turbo APIs from OpenAI. 
+Generate the entire Web (HTML/JSON/CSV/SVG/CSS/JS....and more) using only URLs and LLMs - GPT-3.5-Turbo APIs from OpenAI. 
 
 Uses Open AI Chat Completion APIs - gpt-3.5-turbo
 
